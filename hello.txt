@@ -21,3 +21,4 @@ hello atguigu! hello git! hot-fix test
 
 
 ctrl+l:清除命令
+ghj
